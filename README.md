@@ -1,6 +1,6 @@
 # Basic_Graphic
-Machine graphics task
-Written using Linux
+Machine graphics task 
+Written under Linux
 
 The first task is about a basic raymarching 
 
